@@ -1,0 +1,138 @@
+:root {
+  --accent-default: #3c64b1;
+  --accent-dark: #1e4693;
+  --accent-light: #5a82cf;
+  --gray-lightest: #f4f5f4;
+  --gray-divider: #e2e5e6;
+  --gray-default: #c3cbcd;
+  --gray-dark: #737b7d;
+  --black: #373f41;
+}
+
+body {
+  font-family: Muli !important;
+}
+
+h1 {
+  font-family: Muli;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 72px;
+  letter-spacing: 0.2px;
+}
+
+h2 {
+  font-family: Muli;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 56px;
+  letter-spacing: 0.2px;
+}
+
+h3 {
+  font-family: Muli;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0.1px;
+}
+
+h4 {
+  font-family: Muli;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 32px;
+  letter-spacing: 0.2px;
+}
+
+h5 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.1px;
+}
+
+h6 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+}
+
+.subtitle-lg {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.1px;
+}
+
+.subtitle-sm {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+}
+
+p {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  /* line-height: 22px; */
+  letter-spacing: 0.3px;
+  margin: 0 !important;
+}
+
+p.small {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  /* line-height: 20px; */
+  letter-spacing: 0.2px;
+}
+
+small {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.2px;
+}
+
+caption {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+}
+
+.price {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: 0.2px;
+}
+
+.btn-text {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.3px;
+}

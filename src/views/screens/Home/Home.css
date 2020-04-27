@@ -1,0 +1,14 @@
+.carousel-item-home-bg {
+  background: rgb(7, 15, 32);
+  background: linear-gradient(
+    90deg,
+    rgba(7, 15, 32, 1) 6%,
+    rgba(60, 100, 177, 1) 69%,
+    rgba(90, 130, 207, 1) 100%
+  );
+}
+
+.carousel-item-home {
+  width: 100vw;
+  height: 600px;
+}
